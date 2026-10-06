@@ -1,0 +1,12 @@
+.venv
+.git
+.env
+**/__pycache__
+.pytest_cache
+.ruff_cache
+.mypy_cache
+.vscode
+.idea
+logs
+*.db
+tests
